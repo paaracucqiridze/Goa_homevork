@@ -1,6 +1,9 @@
-name = "paata"
-surname = "cucqiridze"
-hob = "football"
-country = "America"
-age = 13
-print(name, surname, hob, country, age )
+name = 'paata'
+last_name = 'cucqiridze'
+country = "Georgia"
+say_hello_to_me = 'Hello'
+
+number = 100
+
+
+print(say_hello_to_me)

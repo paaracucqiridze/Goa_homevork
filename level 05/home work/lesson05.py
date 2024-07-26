@@ -1,0 +1,8 @@
+num = int(input("miutitet ricxvi: "))
+num1 = int(input("miutitet ricxvi: "))
+num2 = int(input("miutitet ricxvi: "))
+num3 = int(input("miutitet ricxvi: "))
+print(num+num1+num2+num3)
+print(num-num1-num2-num3)
+print(num*num1*num2*num3)
+print(num/num1/num2/num3)
